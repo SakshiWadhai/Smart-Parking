@@ -1,0 +1,2 @@
+1, [(0, 0), (0, 1)], (0, 1), Cost: 2
+1 unparked from (0, 1) to exit at (0, 0), Path: None
